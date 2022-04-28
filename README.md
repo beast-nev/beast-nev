@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there! I'm Neville Ingram
 
-<!--
-**beast-nev/beast-nev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- 💻 Incoming software engineer at Nuance Communications
+- 🎓 Graduated from Worcester Polytechnic Insititue with a Bachelors of Computer Science and a Bachelors of Mathematical Sciences
+- 🤗 I'm interested in machine learning and aritifical intelligence
 
-Here are some ideas to get you started:
+### Current Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on multiple different Kaggle competitons
+- 🌱 I’m currently learning about Deep Neural Networks with Pytorch
+
+### Contact me
+- Email: nev.ingram30@gmail.com
+- LinkedIn: https://www.linkedin.com/in/neville-ingram-b28236187/
