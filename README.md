@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on multiple different Kaggle competitons
 - 🌱 I’m currently learning about Deep Neural Networks with Keras
-- I'm interested in learning about Convulutional Neural Networks
+- 🖼️ I'm learning about Convulutional Neural Networks
 
 ### Contact me
 - Email: nev.ingram30@gmail.com
