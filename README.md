@@ -1,7 +1,7 @@
 ### Hello there! I'm Neville Ingram
 
 ### About me
-- 💻 Incoming software engineer at Nuance Communications
+- 💻 Incoming software engineer at Nuance Communications / Microsoft
 - 🎓 Graduated from Worcester Polytechnic Insititue with a Bachelors of Computer Science and a Bachelors of Mathematical Sciences
 - 🤗 I'm interested in machine learning and aritifical intelligence
 
