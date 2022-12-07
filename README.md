@@ -7,8 +7,7 @@
 
 ### Current Work
 
-- 🔭 I’m currently working on multiple different Kaggle competitons
-- 🌱 I’m currently learning about Deep Neural Networks with Keras
+- 🌱 I’m learning about Deep Neural Networks with Keras
 - 🖼️ I'm learning about Convulutional Neural Networks
 
 ### Contact me
