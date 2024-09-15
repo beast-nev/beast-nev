@@ -2,7 +2,7 @@
 
 ### About me
 - 💻 Software engineer at Microsoft
-- 🎓 Graduated from Worcester Polytechnic Insititue with a Bachelors of Computer Science and a Bachelors of Mathematical Sciences
+- 🎓 Worcester Polytechnic Insititue graduate with a Bachelors of Computer Science and a Bachelors of Mathematical Sciences
 - 🤗 I'm interested in machine learning and aritifical intelligence
 
 ### Contact me
